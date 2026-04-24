@@ -1,6 +1,16 @@
-## Hi there 👋
+# 👋 關於我
+
+專注於 後端與資料處理 的工程師，
+以 Python 與 SQL 建置資料導向系統與自動化流程，
+協助將 高重複性工作轉化為穩定、可維護的解決方案。
+
+
 
 <!--
+
+
+## Hi there 👋
+
 **s240825ge/s240825ge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
